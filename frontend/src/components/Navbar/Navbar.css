@@ -15,6 +15,7 @@
     gap: 20px;
     color: #49557e;
     font-size: 18px;
+    cursor: pointer;
 }
 
 .navbar-right{
@@ -44,6 +45,7 @@
     border-bottom: 2px solid tomato;
     color: tomato;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .navbar-search-icon{
